@@ -29,6 +29,9 @@ public class errorValidationTest extends BaseTest{
 		System.out.println("New Line Added - 2");
 		System.out.println("New Line Added - 3");
 		System.out.println("New Line Added - 4");
+		System.out.println("New Line Added - 5 GitX");
+		System.out.println("New Line Added - 4 GitX");
+		
 	}
 
 	@Test(retryAnalyzer=Retry1.class)
