@@ -25,6 +25,8 @@ public class errorValidationTest extends BaseTest{
 		System.out.println("Error Message is:"+ lp.getMessage());
 		String actErrMsg = lp.getMessage();
 		Assert.assertEquals(actErrMsg, "Login Successful");
+		System.out.println("New Line Added - 1");
+		System.out.println("New Line Added -2");
 	}
 
 	@Test(retryAnalyzer=Retry1.class)
