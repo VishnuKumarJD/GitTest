@@ -54,4 +54,9 @@ public class errorValidationTest extends BaseTest{
 	{
 		
 	}
+	
+	public void test2()
+	{
+		System.out.println("By GitX1");
+	}
 }
