@@ -59,4 +59,9 @@ public class errorValidationTest extends BaseTest{
 	{
 		System.out.println("By GitX1");
 	}
+	
+	public void test3()
+	{
+		System.out.println("Master Branch final update");
+	}
 }
